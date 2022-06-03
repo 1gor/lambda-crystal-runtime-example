@@ -1,0 +1,5 @@
+/lib
+/lambda
+/bin/*
+
+!/bin/*.cr

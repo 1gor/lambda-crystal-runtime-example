@@ -1,0 +1,10 @@
+name: lambda-runtime-example
+version: 0.1.0
+
+dependencies:
+  lambda_runtime:
+    github: aws-samples/lambda-crystal-runtime
+
+targets:
+  example:
+    main: bin/example.cr
