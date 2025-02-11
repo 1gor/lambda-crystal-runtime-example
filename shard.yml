@@ -3,8 +3,8 @@ version: 0.1.0
 
 dependencies:
   lambda_runtime:
-    github: aws-samples/lambda-crystal-runtime
+    github: 1gor/lambda-crystal-runtime
 
 targets:
   example:
-    main: bin/example.cr
+    main: src/example.cr

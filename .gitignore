@@ -1,5 +1,7 @@
 /lib
 /lambda
 /bin/*
-
+lambda*.*
 !/bin/*.cr
+output.txt
+.out

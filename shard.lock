@@ -1,6 +1,6 @@
 version: 2.0
 shards:
   lambda_runtime:
-    git: https://github.com/aws-samples/lambda-crystal-runtime.git
+    git: https://github.com/1gor/lambda-crystal-runtime.git
     version: 0.1.0+git.commit.8e2393c556fca0fa32003bc4f213c26a7e1f328c
 

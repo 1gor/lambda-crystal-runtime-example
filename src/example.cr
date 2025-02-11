@@ -2,5 +2,5 @@ require "lambda_runtime"
 
 lambda_event_loop do |event_body|
   puts event_body
-  "ok"
+  "all is ok"
 end
